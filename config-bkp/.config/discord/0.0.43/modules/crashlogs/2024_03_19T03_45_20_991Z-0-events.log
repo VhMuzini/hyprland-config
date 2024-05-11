@@ -1,0 +1,8 @@
+2024-03-19T03:45:20.999Z 0: 
+
+----------------------------------------------
+2024-03-19T03:45:21.012Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.43"}, modulepath: /home/vendrick/.config/discord/0.0.43/modules
+2024-03-19T03:45:21.015Z 2: ✅ webContents.created web1 ""
+2024-03-19T03:45:21.017Z 3: ✅ window.created win1 "discord"
+2024-03-19T03:45:21.276Z 4: ✅ webContents.did-finish-load web1
+2024-03-19T03:45:37.019Z 5: before-quit

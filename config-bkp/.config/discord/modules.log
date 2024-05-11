@@ -1,0 +1,21 @@
+2024-03-19T03:45:20.969Z [Modules] Modules initializing
+2024-03-19T03:45:20.969Z [Modules] Distribution: remote
+2024-03-19T03:45:20.969Z [Modules] Host updates: enabled
+2024-03-19T03:45:20.969Z [Modules] Module updates: enabled
+2024-03-19T03:45:20.970Z [Modules] Module install path: /home/vendrick/.config/discord/0.0.43/modules
+2024-03-19T03:45:20.970Z [Modules] Module installed file path: /home/vendrick/.config/discord/0.0.43/modules/installed.json
+2024-03-19T03:45:20.970Z [Modules] Module download path: /home/vendrick/.config/discord/0.0.43/modules/pending
+2024-03-19T03:45:21.175Z [Modules] Bootstrapping...
+2024-03-19T03:45:21.176Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-03-19T03:45:21.181Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-03-19T03:45:21.182Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-03-19T03:45:21.184Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-03-19T03:45:21.184Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-03-19T03:45:21.186Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-03-19T03:45:21.187Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-03-19T03:45:21.188Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-03-19T03:45:21.189Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-03-19T03:45:21.190Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-03-19T03:45:21.190Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2024-03-19T03:45:21.191Z [Modules] Checking for host updates.
+2024-03-19T03:45:21.449Z [Modules] Host update is available. Manual update required!
